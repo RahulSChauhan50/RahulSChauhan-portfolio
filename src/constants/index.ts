@@ -50,6 +50,18 @@ export const SKILL_DATA = [
     width: 80,
     height: 80,
   },
+  {
+    skill_name: "Typescript",
+    image: skillIcon.ts,
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "JavaScript",
+    image: skillIcon.js,
+    width: 80,
+    height: 80,
+  },
 ] as const;
 
 export const SOCIALS = [
@@ -83,21 +95,29 @@ export const FRONTEND_SKILL = [
     width: 80,
     height: 80,
   },
+
   {
-    skill_name: "JavaScript",
-    image: skillIcon.js,
+    skill_name: "Figma",
+    image: skillIcon.figma,
+    width: 40,
+    height: 40,
+  },
+  {
+    skill_name: "Git",
+    image: skillIcon.git,
     width: 80,
     height: 80,
+  },
+
+  {
+    skill_name: "Firebase",
+    image: skillIcon.firebase,
+    width: 60,
+    height: 60,
   },
   {
     skill_name: "React",
     image: skillIcon.react,
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Redux",
-    image: skillIcon.redux,
     width: 80,
     height: 80,
   },
@@ -123,17 +143,18 @@ export const BACKEND_SKILL = [
     height: 80,
   },
   {
-    skill_name: "MongoDB",
-    image: skillIcon.mongodb,
+    skill_name: "Graphql",
+    image: skillIcon.graphql,
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Firebase",
-    image: skillIcon.firebase,
-    width: 80,
-    height: 80,
+    skill_name: "MongoDB",
+    image: skillIcon.mongodb,
+    width: 40,
+    height: 40,
   },
+
   {
     skill_name: "PostgreSQL",
     image: skillIcon.postgresql,
@@ -143,24 +164,6 @@ export const BACKEND_SKILL = [
   {
     skill_name: "MySQL",
     image: skillIcon.mysql,
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Graphql",
-    image: skillIcon.graphql,
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "AWS",
-    image: skillIcon.aws,
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "DevOps",
-    image: skillIcon.devops,
     width: 80,
     height: 80,
   },
@@ -186,14 +189,14 @@ export const FULLSTACK_SKILL = [
     height: 80,
   },
   {
-    skill_name: "Figma",
-    image: skillIcon.figma,
+    skill_name: "AWS",
+    image: skillIcon.aws,
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Git",
-    image: skillIcon.git,
+    skill_name: "DevOps",
+    image: skillIcon.devops,
     width: 80,
     height: 80,
   },
