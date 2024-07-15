@@ -315,7 +315,7 @@ export const FOOTER_DATA = [
     title: "About",
     data: [
       {
-        name: "Contact Me",
+        name: "rahulschauhan50@gmail.com",
         icon: RxEnvelopeClosed,
         link: "mailto:rahulschauhan50@gmail.com",
       },
