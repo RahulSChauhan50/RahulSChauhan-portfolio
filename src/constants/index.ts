@@ -252,6 +252,14 @@ Application has several features such as -
 export const BLOGS = [
   {
     title:
+      "Automating Blue/Green Deployments on AWS EC2 Using CodeDeploy and GitHub Actions",
+    description: `Blue/Green Deployment is a strategy to minimize downtime and reduce risks when deploying new versions of applications.
+In a Blue/Green Deployment, you have two identical environments: Blue and Green. At any given time, only one of these environments is live (receiving traffic). The idea is to switch traffic from the old version (Blue) to the new version (Green) with minimal downtime and risk.`,
+    image: blogIcon.awsCodeDeploy,
+    link: "https://medium.com/@rahulschauhan50/automating-blue-green-deployments-on-aws-ec2-using-codedeploy-and-github-actions-86a80783c49a",
+  },
+  {
+    title:
       "Auto-Deploy Web Apps on Firebase with GitHub Actions: Multi-Site Configuration Guide",
     description: `Building Features is a Blast, But Staring at Build and Deployment Screens is a Snooze Fest.Automate the Process with GitHub Actions and Firebase, and Get Back to the Fun Stuff!`,
     image: blogIcon.fireBaseGithub,
