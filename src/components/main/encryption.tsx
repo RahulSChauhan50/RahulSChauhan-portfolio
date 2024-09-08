@@ -33,25 +33,25 @@ export const Encryption = () => {
                   <div className="text-base">Voosh</div>
                   <div className="text-sm">May 2023 to Present</div>
                   <div className="text-xs ">
-                    Implemented various performance optimizations in a web
-                    application, achieving a 50% reduction in page load times,
-                    enhancing user experience with faster and smoother browsing.
-                    .Developed a CI/CD pipeline for automatic code deployment on
-                    Firebase, enabling continuous updates and reducing
-                    deployment time by 30%. .Developed dynamic data insertion
-                    and PDF file creation features using NodeJS and Google Docs
-                    APIs.Created RESTful API endpoints to facilitate frontend
-                    data consumption. .Established a CI/CD pipeline for
-                    automatic backend deployment on EC2 instances using AWS
-                    CodeDeploy, reducing deployment time by 80% and ensuring
-                    consistent and reliable deployments. .Configured
-                    auto-scaling and load balancing with EC2 Services, resulting
-                    in a 50% increase in concurrent user capacity and improved
-                    system performance during peak traffic periods. .Developed
-                    and implemented server-side automation for AI-driven
-                    automatic replies to user reviews on Google and Yelp,
-                    enhancing customer engagement and reducing reply time by up
-                    to 90%.
+                    •Developed a full-featured analytics website for restaurant
+                    operators using ReactJS, React Router, and Redux, enabling
+                    near-real-time tracking of sales, promotions, reviews, and
+                    disputes from online delivery platforms. •Developed a CI/CD
+                    pipeline for automatic code deployment on Firebase, enabling
+                    continuous updates and reducing deployment time by 30%.
+                    •Developed dynamic data insertion and PDF file creation
+                    features using NodeJS and Google Docs APIs. •Created RESTful
+                    API endpoints to facilitate frontend data consumption.
+                    •Established a CI/CD pipeline for automatic backend
+                    deployment on EC2 instances using AWS CodeDeploy, reducing
+                    deployment time by 80% and ensuring consistent and reliable
+                    deployments. •Configured auto-scaling and load balancing
+                    with EC2 Services, resulting in a 50% increase in concurrent
+                    user capacity and improved system performance during peak
+                    traffic periods. •Developed and implemented server-side
+                    automation for AI-driven automatic replies to user reviews
+                    on Google and Yelp, enhancing customer engagement and
+                    reducing reply time by up to 90%.
                   </div>
                 </div>
               </td>
@@ -94,12 +94,15 @@ export const Encryption = () => {
                   </div>
                   <div className="text-sm">Dec 2021 to Jan 2022</div>
                   <div className="text-xs ">
-                    Proficient in designing and implementing visually appealing
-                    UI components in React Native, enhancing user experience.
-                    Skilled in seamlessly integrating backend REST APIs with
-                    React Native applications for efficient data handling.
-                    Experienced in debugging and resolving issues in React
-                    Native applications to ensure smooth and reliable operation.
+                    •Developed a ticket booking application using React Native,
+                    enabling users to seamlessly book rail and bus tickets, as
+                    well as order food, all within one platform. •Created
+                    visually appealing UI components, enhancing the overall user
+                    experience and engagement. •Integrated backend REST APIs,
+                    ensuring smooth data handling and real-time booking
+                    capabilities. •Developed a splash screen to enhance user
+                    experience during app startup, providing a seamless
+                    transition while background login processes are completed.
                   </div>
                 </div>
               </td>
@@ -115,12 +118,20 @@ export const Encryption = () => {
                   <div className="text-base">Organic Tap</div>
                   <div className="text-sm">June 2021 to Nov 2021</div>
                   <div className="text-xs ">
-                    Developed Android and iOS applications for local farmers to
-                    sell products online. Integrated with REST APIs for backend
-                    communication. Implemented location services using Google
-                    Maps. Utilized Redux for efficient state management.
-                    Integrated Material UI components, adhering to design
-                    guidelines for enhanced user experience.
+                    •Developed a fresh grocery ordering application in React
+                    Native, enabling users to purchase produce directly from
+                    farmers, fostering a direct and efficient farm-to-table
+                    connection. •Enhanced user experience by designing and
+                    implementing visually appealing UI components in React
+                    Native, leading to increased user engagement. •Optimized
+                    data handling by seamlessly integrating backend REST APIs
+                    with React Native applications, resulting in faster and more
+                    efficient data processing. •Improved application reliability
+                    by debugging and resolving critical issues in React Native
+                    applications, ensuring smooth and uninterrupted operation.
+                    •Integrated Google Maps API for precise user location
+                    selection, enhancing the user experience by enabling
+                    accurate delivery addresses and improving order accuracy.
                   </div>
                 </div>
               </td>
