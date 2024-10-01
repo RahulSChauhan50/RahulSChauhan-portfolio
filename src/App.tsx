@@ -15,7 +15,7 @@ function App() {
   return (
     <div
       className={
-        "bg-[#030014] overflow-y-scroll overflow-x-hidden inter-font flex flex-col flex-1 scroll-smooth"
+        "bg-[#030014] overflow-y-scroll overflow-x-hidden inter-font flex flex-col flex-1 scroll-smooth scrollbar-hidden"
       }
       ref={scrollRef}
     >
