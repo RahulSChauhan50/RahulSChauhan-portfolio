@@ -33,6 +33,9 @@ import tauri from "./tauri.png";
 import ts from "./ts.png";
 import vite from "./vite.png";
 import xcode from "./xcode.png";
+import claude from './Claude.png';
+import kubernetest from './Kubernetes.png';
+import redis from './redis.png';
 
 export default {
   androidStudio,
@@ -70,4 +73,7 @@ export default {
   ts,
   vite,
   xcode,
+  claude,
+  kubernetest,
+  redis
 };

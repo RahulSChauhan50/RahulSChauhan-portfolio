@@ -25,13 +25,58 @@ export const Encryption = () => {
         <table className="min-w-full ">
           <tbody>
             <tr className="w-full  ">
+              <td className="px-6 py-4 border-r border-white text-white text-right"></td>
+              <td className="px-6 py-4  text-white w-1/2">
+                <div className="flex flex-col gap-1">
+                  <div className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+                    Senior Software Engineer
+                  </div>
+                  <div className="text-base">Netskope</div>
+                  <div className="text-sm">Dec 2024 to July 2026</div>
+                  <div className="text-xs ">
+                    Developed end-to-end (E2E) test suites to simulate
+                    real-world user workflows, ensuring comprehensive feature
+                    validation across critical user journeys and improving
+                    release confidence. ● Designed and implemented a secure
+                    credential onboarding workflow using RSA and AES encryption
+                    for cloud provider integrations (AWS, Azure, and GCP),
+                    securely storing credentials in a vault while maintaining
+                    encrypted references in MariaDB for retrieval and
+                    management. ● Optimized credential validation and upload
+                    workflows by replacing large bulk API requests with batched
+                    requests of 5 in ReactJS, improving rate-limit handling,
+                    enhancing system reliability, and enabling retry mechanisms
+                    for failed operations. ● Contributed to a large-scale
+                    frontend modernization initiative by migrating a monolithic
+                    Angular application to a React-based micro-frontend
+                    architecture using Module Federation, improving scalability
+                    and independent deployment capabilities. ● Built a
+                    scheduling and automation service in NestJS for Looker user
+                    lifecycle management, including license-expiry
+                    notifications, user deactivation, and account cleanup.
+                    Leveraged BullMQ and Redis for reliable job orchestration
+                    and Kafka event consumers to trigger automated tenant
+                    deprovisioning workflows. ● Participated in on-call
+                    rotations, proactively monitoring Kubernetes workloads,
+                    investigating NGINX and application-level issues, performing
+                    root-cause analysis, and coordinating with cross-functional
+                    teams through Jira-based incident management. ● Conducted
+                    code reviews across frontend and backend services, providing
+                    actionable feedback on architecture, performance, code
+                    quality, and maintainability to uphold engineering
+                    standards.
+                  </div>
+                </div>
+              </td>
+            </tr>
+            <tr className="w-full  ">
               <td className="px-6 py-4 border-r border-white text-white text-right w-1/2">
                 <div className="flex flex-col gap-1">
                   <div className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
                     SDE2
                   </div>
                   <div className="text-base">Voosh</div>
-                  <div className="text-sm">May 2023 to Present</div>
+                  <div className="text-sm">May 2023 to September 2024</div>
                   <div className="text-xs ">
                     •Developed a full-featured analytics website for restaurant
                     operators using ReactJS, React Router, and Redux, enabling

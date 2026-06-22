@@ -13,6 +13,28 @@ import skillIcon from "../assets/skills/skillsIcon";
 import blogIcon from "../assets/blogs/blogIcon";
 import projectIcon from "../assets/projects/projectIcon";
 
+export const SKILL_DATA1 = [
+  {
+    skill_name: "Kubernetes",
+    image: skillIcon.kubernetest,
+    width: 80,
+    height: 80,
+  },
+]
+export const SKILL_DATA2 = [
+  {
+    skill_name: "Redis",
+    image: skillIcon.redis,
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Claude",
+    image: skillIcon.claude,
+    width: 80,
+    height: 80,
+  }
+]
 export const SKILL_DATA = [
   {
     skill_name: "ReactNative",

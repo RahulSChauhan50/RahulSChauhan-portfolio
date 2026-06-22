@@ -7,10 +7,16 @@ export const Blogs = () => {
       id="article"
       className="flex flex-col items-center justify-center py-20"
     >
-      <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        My Articles
-      </h1>
-      <div className="h-full w-full flex flex-wrap gap-10 px-10">
+      <div className="text-center mb-16">
+        <h1 className="section-title font-semibold text-white">
+          My Articles
+        </h1>
+        <p className="mt-4 text-gray-400 max-w-2xl mx-auto text-base">
+          Technical writing that explains deployment workflows, React
+          optimization, and intelligent app architecture.
+        </p>
+      </div>
+      <div className="w-full grid gap-8 lg:grid-cols-2 xl:grid-cols-3">
         {BLOGS.map((project) => (
           <ProjectCard
             key={project.title}

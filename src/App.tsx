@@ -22,8 +22,8 @@ function App() {
       <StarsCanvas />
       <Navbar />
       <BlackHole scrollRef={scrollRef} />
-      <main className=" w-full z-10">
-        <div className="flex flex-col gap-20">
+      <main className="w-full z-10">
+        <div className="mx-auto max-w-[1440px] px-6 py-6 lg:px-10 flex flex-col gap-28">
           <Hero />
           <Skills />
           <Encryption />
